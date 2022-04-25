@@ -12,3 +12,7 @@ Today, just finished Forms in React and created descriptions on top and bottom o
 
 ### R1D3
 Just finished the meme generator. Yes, I need to change the styling a little bit to fit the description top and bottom to size the image, but it is not too bad. It's my first time deploying React App :) 
+
+### R1D4
+
+Finished static site with React Fun Facts and Dark/Light Mode. 
