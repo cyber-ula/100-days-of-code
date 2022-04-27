@@ -19,3 +19,7 @@ Finished static site with React Fun Facts and Dark/Light Mode.
 
 ### R1D5
 Start making Markdown Note App.
+
+### R1D6
+
+Added two new features to Markdown Note App: note summary titles and move modified notes to the top of the list.
