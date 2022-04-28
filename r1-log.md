@@ -23,3 +23,7 @@ Start making Markdown Note App.
 ### R1D6
 
 Added two new features to Markdown Note App: note summary titles and move modified notes to the top of the list.
+
+### R1D7 (24.04.2022r.)
+
+Just finished Markdown Note App in React.
