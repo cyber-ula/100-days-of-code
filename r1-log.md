@@ -27,3 +27,9 @@ Added two new features to Markdown Note App: note summary titles and move modifi
 ### R1D7 (24.04.2022r.)
 
 Just finished Markdown Note App in React.
+
+### R1D8
+
+✅Finished setup to Tenzies Game in React
+✅ Automating DB in my API: adding tables 
+✅ Solved 3 problems on LeetCode
