@@ -33,3 +33,6 @@ Just finished Markdown Note App in React.
 ✅Finished setup to Tenzies Game in React
 ✅ Automating DB in my API: adding tables 
 ✅ Solved 3 problems on LeetCode
+
+### R1D9
+Just scraping data in Python using the library BeautifulSoup4
