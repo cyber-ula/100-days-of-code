@@ -39,3 +39,6 @@ Just scraping data in Python using the library BeautifulSoup4
 
 ### R1D10
 Worked on Tenzies Game in React. Just map all the random numbers from 1 to 6 in 10 different dice 📚
+
+### R1D11
+Added a new feature to my API. Still working on Tenzies Game in React
