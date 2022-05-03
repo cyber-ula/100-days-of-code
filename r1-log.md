@@ -42,3 +42,6 @@ Worked on Tenzies Game in React. Just map all the random numbers from 1 to 6 in 
 
 ### R1D11
 Added a new feature to my API. Still working on Tenzies Game in React
+
+### R1D12
+Added comments in my API. 🎉😊🔥 still was doing my React Tenzies Game. Sometimes things went complicated and you need to come back to fundamentals. 
