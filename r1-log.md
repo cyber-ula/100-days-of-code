@@ -45,3 +45,6 @@ Added a new feature to my API. Still working on Tenzies Game in React
 
 ### R1D12
 Added comments in my API. 🎉😊🔥 still was doing my React Tenzies Game. Sometimes things went complicated and you need to come back to fundamentals. 
+
+### R1D13
+ I've just finished my Tenzies Game in React. 
