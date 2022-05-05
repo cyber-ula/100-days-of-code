@@ -48,3 +48,6 @@ Added comments in my API. 🎉😊🔥 still was doing my React Tenzies Game. So
 
 ### R1D13
  I've just finished my Tenzies Game in React. 
+
+### R1D14
+I've just added a new feature to the Tenzies Game. In CSS, I have done real dots on the dice.
