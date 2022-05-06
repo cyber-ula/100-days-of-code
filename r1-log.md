@@ -51,3 +51,9 @@ Added comments in my API. 🎉😊🔥 still was doing my React Tenzies Game. So
 
 ### R1D14
 I've just added a new feature to the Tenzies Game. In CSS, I have done real dots on the dice.
+
+### R1D15
+
+I've just added a new feature to my Tenzies Game in React, again. 
+
+Now, you can roll 10 times until all dice are the same. I never thought that it could be so fun. But I am eager to add more fun features to this game soon .
