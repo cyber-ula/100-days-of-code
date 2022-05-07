@@ -57,3 +57,7 @@ I've just added a new feature to the Tenzies Game. In CSS, I have done real dots
 I've just added a new feature to my Tenzies Game in React, again. 
 
 Now, you can roll 10 times until all dice are the same. I never thought that it could be so fun. But I am eager to add more fun features to this game soon .
+
+### R1D16
+
+Just reviewed props and forms in React. Still learned some JS.
