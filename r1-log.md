@@ -61,3 +61,7 @@ Now, you can roll 10 times until all dice are the same. I never thought that it 
 ### R1D16
 
 Just reviewed props and forms in React. Still learned some JS.
+
+### R1D17
+
+ I've done a to-do list with add and search feature in React.
