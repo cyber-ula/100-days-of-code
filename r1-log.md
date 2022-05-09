@@ -65,3 +65,6 @@ Just reviewed props and forms in React. Still learned some JS.
 ### R1D17
 
  I've done a to-do list with add and search feature in React.
+ 
+### R1D18
+ I've made Change Color App in React with hex value.
