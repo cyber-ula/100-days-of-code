@@ -68,3 +68,7 @@ Just reviewed props and forms in React. Still learned some JS.
  
 ### R1D18
  I've made Change Color App in React with hex value.
+ 
+### R1D19
+Today, just worked on my API and React App. 
+I learnt also some concepts from JS and Reacts.🥰📚
