@@ -72,3 +72,6 @@ Just reviewed props and forms in React. Still learned some JS.
 ### R1D19
 Today, just worked on my API and React App. 
 I learnt also some concepts from JS and Reacts.🥰📚
+
+### R1D20
+Time is ticking and I still digging deeper in React. Revised DOM in JS Course.
