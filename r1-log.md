@@ -77,4 +77,7 @@ I learnt also some concepts from JS and Reacts.🥰📚
 Time is ticking and I still digging deeper in React. Revised DOM in JS Course.
 
 ### R1D21
-Fetched data from public API in React App
+Fetched data from public API in React App.
+
+### R1D22
+Added CRUD operations to my API.
