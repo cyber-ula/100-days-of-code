@@ -81,3 +81,6 @@ Fetched data from public API in React App.
 
 ### R1D22
 Added CRUD operations to my API.
+
+### R1D23
+Today, just learned about Router in React. I finished the layout on the client-side for my App. 
