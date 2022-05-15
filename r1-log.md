@@ -83,4 +83,9 @@ Fetched data from public API in React App.
 Added CRUD operations to my API.
 
 ### R1D23
-Today, just learned about Router in React. I finished the layout on the client-side for my App. 
+Today, just learned about Router in React. I finished the layout on the client-side for my App.
+
+### R1D24
+I learnt the concept of Linked Lists from Algorithms and Data Structures. 
+
+Fetched some data in my React App from my API.
