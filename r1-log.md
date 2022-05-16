@@ -89,3 +89,8 @@ Today, just learned about Router in React. I finished the layout on the client-s
 I learnt the concept of Linked Lists from Algorithms and Data Structures. 
 
 Fetched some data in my React App from my API.
+
+### R1D25
+Learned about Stacks.
+✅ Read some pages about OOP in Python.
+✅ Started Full-Stack App 🥰🔥📚👩‍💻
