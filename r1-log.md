@@ -94,3 +94,9 @@ Fetched some data in my React App from my API.
 Learned about Stacks.
 ✅ Read some pages about OOP in Python.
 ✅ Started Full-Stack App 🥰🔥📚👩‍💻
+
+
+### R1D26
+✅ Learned about Binary Search.
+✅ Learned some concepts from JS and React.
+✅ Added a new feature to my project. 
