@@ -100,3 +100,6 @@ Learned about Stacks.
 ✅ Learned about Binary Search.
 ✅ Learned some concepts from JS and React.
 ✅ Added a new feature to my project... 
+
+### R1D26
+Coding almost all day :)
