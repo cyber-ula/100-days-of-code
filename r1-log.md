@@ -101,5 +101,5 @@ Learned about Stacks.
 ✅ Learned some concepts from JS and React.
 ✅ Added a new feature to my project... 
 
-### R1D26
+### R1D27
 Coding almost all day :)
