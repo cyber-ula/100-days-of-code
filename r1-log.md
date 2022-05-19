@@ -103,3 +103,6 @@ Learned about Stacks.
 
 ### R1D27
 Coding almost all day :)
+
+### R1D28
+Working on Authentication in my API.
