@@ -106,3 +106,7 @@ Coding almost all day :)
 
 ### R1D28
 Working on Authentication in my API.
+
+### R1D29
+
+Worked on sidebar in my Portfolio.
