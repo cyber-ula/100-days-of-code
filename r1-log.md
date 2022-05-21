@@ -110,3 +110,8 @@ Working on Authentication in my API.
 ### R1D29
 
 Worked on sidebar in my Portfolio.
+
+
+### R1D30
+
+Worked on my Portfolio and connected my Frontend with my API.
