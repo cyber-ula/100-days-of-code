@@ -121,3 +121,7 @@ Worked on my Portfolio and connected my Frontend with my API.
 Today I tested roles to my API. Now, it is possible to log in as an admin or other user. 
 
 I worked on my portfolio too.
+
+### R1D32
+
+I worked on my API.
