@@ -125,3 +125,6 @@ I worked on my portfolio too.
 ### R1D32
 
 I worked on my API.
+
+### R1D33
+I started writing tests to my API.
