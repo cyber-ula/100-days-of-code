@@ -128,3 +128,7 @@ I worked on my API.
 
 ### R1D33
 I started writing tests to my API.
+
+### R1D34
+
+I've written some tests and tried to make my front-end more beautiful.
