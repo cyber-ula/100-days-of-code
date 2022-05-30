@@ -146,3 +146,7 @@ Worked on front-end side of my app.
 
 ### R1D38
 Today, all 40 tests passed and I still working on the front side of my app. I know, it is not still looking good, I will try to only connect my API with React app. I have lots of fun with it and maybe soon I will launch it on the server.
+
+### R1D39
+
+One hour of coding is done!
