@@ -150,3 +150,6 @@ Today, all 40 tests passed and I still working on the front side of my app. I kn
 ### R1D39
 
 One hour of coding is done!!!
+
+### R1D40
+Dig deeper in Django Rest Framework and I did authentication in it.
