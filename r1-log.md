@@ -153,3 +153,6 @@ One hour of coding is done!!!
 
 ### R1D40
 Dig deeper in Django Rest Framework and I did authentication in it.
+
+### R1D41
+Created models in SQLAlchemy.
