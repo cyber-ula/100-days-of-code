@@ -156,3 +156,9 @@ Dig deeper in Django Rest Framework and I did authentication in it.
 
 ### R1D41
 Created models in SQLAlchemy.
+
+### R1D42
+✅ Read some pages about OOP in Python
+✅ Worked on my project in FastAPI 
+
+ 
