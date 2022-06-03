@@ -161,4 +161,6 @@ Created models in SQLAlchemy.
 ✅ Read some pages about OOP in Python
 ✅ Worked on my project in FastAPI 
 
- 
+ ### R1D43
+ Created one more feature in my app
+✅ Exploring Django
