@@ -167,3 +167,7 @@ Created models in SQLAlchemy.
 
 ### R1D44
 TESTING.
+
+### R1D45
+Just learning Django and coding a lot in my project. 
+
