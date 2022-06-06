@@ -171,3 +171,7 @@ TESTING.
 ### R1D45
 Just learning Django and coding a lot in my project. 
 
+### R1D46
+✅ Wrote a post on my blog
+✅ Creating forms in Django
+✅ Integrated frontend with my API
