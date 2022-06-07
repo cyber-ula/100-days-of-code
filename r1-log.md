@@ -175,3 +175,7 @@ Just learning Django and coding a lot in my project.
 ✅ Wrote a post on my blog
 ✅ Creating forms in Django
 ✅ Integrated frontend with my API
+
+### R1D47
+✅ Added Bootstrap to my Django app
+✅ Finished one new feature in my API
