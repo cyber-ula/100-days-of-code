@@ -179,3 +179,7 @@ Just learning Django and coding a lot in my project.
 ### R1D47
 ✅ Added Bootstrap to my Django app
 ✅ Finished one new feature in my API
+
+### R1D48
+Just learning Django and still doing my project.
+
