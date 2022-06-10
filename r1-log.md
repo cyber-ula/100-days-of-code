@@ -187,3 +187,6 @@ Just learning Django and still doing my project.
 
 Still learning Django.
 
+### R1D50
+
+Just started learning Node.js.
