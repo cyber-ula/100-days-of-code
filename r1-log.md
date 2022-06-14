@@ -200,3 +200,6 @@ Just coding.
 ### R1D53
 Today, just learned about middleware and routing using Express.js ✅😍👩‍💻
 
+### R1D54
+Just learned about MVC Design Pattern. Revise some JS. 
+
