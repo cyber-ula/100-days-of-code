@@ -206,3 +206,5 @@ Just learned about MVC Design Pattern. Revise some JS.
 ### R1D55
 Today, just learned about Authentication using Express.js. Practised JS and worked on my project.
 
+### R1D56
+I read about functions in JS, in the Eloquent Javascript book. Also, learnt about JWT using Express.js. Worked on my project.
