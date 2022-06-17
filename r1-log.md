@@ -208,3 +208,7 @@ Today, just learned about Authentication using Express.js. Practised JS and work
 
 ### R1D56
 I read about functions in JS, in the Eloquent Javascript book. Also, learnt about JWT using Express.js. Worked on my project.
+
+### R1D57
+Today, just worked on my portfolio and learned Node.js a little bit. 
+
