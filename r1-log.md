@@ -212,3 +212,5 @@ I read about functions in JS, in the Eloquent Javascript book. Also, learnt abou
 ### R1D57
 Today, just worked on my portfolio and learned Node.js a little bit. 
 
+### R1D58
+Just learned about JWT again plus made my portfolio more responsive.
