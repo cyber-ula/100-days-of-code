@@ -214,3 +214,6 @@ Today, just worked on my portfolio and learned Node.js a little bit.
 
 ### R1D58
 Just learned about JWT again plus made my portfolio more responsive.
+
+### R1D59
+Today, just learned about making user roles in Express.js. Fixing errors in almost 2 hours and still cannot find the right solutions
