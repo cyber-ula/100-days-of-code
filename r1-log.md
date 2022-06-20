@@ -217,3 +217,7 @@ Just learned about JWT again plus made my portfolio more responsive.
 
 ### R1D59
 Today, just learned about making user roles in Express.js. Fixing errors in almost 2 hours and still cannot find the right solutions
+
+### R1D60
+Today, read docs: https://mongoosejs.com
+and done navbar in my app.
