@@ -224,3 +224,9 @@ and done navbar in my app.
 
 ### R1D61
 Fixed bugs in my project.
+
+### R1D62
+
+✅Finished Node.js course
+✅Made my portfolio more responsive
+✅Solved factorial problem in JS
