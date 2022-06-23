@@ -230,3 +230,7 @@ Fixed bugs in my project.
 ✅Finished Node.js course
 ✅Made my portfolio more responsive
 ✅Solved factorial problem in JS
+
+### R1D63
+✅implemented CRUD operations in my API
+
