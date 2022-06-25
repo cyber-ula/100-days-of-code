@@ -237,3 +237,5 @@ Fixed bugs in my project.
 ### R1D64
 Today, just started making frontend to my API 👩‍💻📚
 
+### R1D65
+✅ Just finished frontend authentication.
