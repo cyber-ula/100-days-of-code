@@ -239,3 +239,6 @@ Today, just started making frontend to my API 👩‍💻📚
 
 ### R1D65
 ✅ Just finished frontend authentication.
+
+### R1D66
+Fixed errors.
