@@ -242,3 +242,6 @@ Today, just started making frontend to my API 👩‍💻📚
 
 ### R1D66
 Fixed errors.
+
+### R1D67
+Worked on my project in MERN stack.
