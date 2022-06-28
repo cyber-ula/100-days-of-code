@@ -245,3 +245,7 @@ Fixed errors.
 
 ### R1D67
 Worked on my project in MERN stack.
+
+### R1D68
+✅ Fixing errors in my project,
+✅ Read React docs
