@@ -249,3 +249,6 @@ Worked on my project in MERN stack.
 ### R1D68
 ✅ Fixing errors in my project,
 ✅ Read React docs
+
+### R1D69
+✅Learning Redux and using it in my project:
