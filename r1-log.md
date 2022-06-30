@@ -251,4 +251,8 @@ Worked on my project in MERN stack.
 ✅ Read React docs
 
 ### R1D69
-✅Learning Redux and using it in my project:
+✅Learning Redux and using it in my project
+
+### R1D70
+
+Today, just added like and delete functionality to my app.
