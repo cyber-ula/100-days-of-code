@@ -259,3 +259,6 @@ Today, just added like and delete functionality to my app.
 
 ### R1D71
 Just working on the update functionality in my app. Lots of errors come here, but I fixed almost everything.
+
+### R1D72
+Just learned about Google OAuth Authentication and implemented it in my app.
