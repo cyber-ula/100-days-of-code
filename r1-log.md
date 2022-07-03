@@ -262,3 +262,6 @@ Just working on the update functionality in my app. Lots of errors come here, bu
 
 ### R1D72
 Just learned about Google OAuth Authentication and implemented it in my app.
+
+### R1D73
+Just worked on pagination in my app.
