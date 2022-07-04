@@ -265,3 +265,7 @@ Just learned about Google OAuth Authentication and implemented it in my app.
 
 ### R1D73
 Just worked on pagination in my app.
+
+### R1D74
+Just worked on Search functionality in my app💪👩‍💻🔥✅
+
