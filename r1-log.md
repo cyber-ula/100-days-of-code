@@ -270,5 +270,9 @@ Just worked on pagination in my app.
 Just worked on Search functionality in my app💪👩‍💻🔥✅
 
 ### R1D75
-✅Just fixed some errors. 
+✅Just fixed some errors.
+
+### R1D76
+✅🎯🧩🧹Just cleaned my code a little bit in my app.
+
 
