@@ -277,3 +277,7 @@ Just worked on Search functionality in my app💪👩‍💻🔥✅
 
 ### R1D77( 7.07.2022r.)
 Just start a new project to portfolio.
+
+
+### R1D78
+Today, just revised the recursion concept and worked on my project 😍👩‍💻🎯
