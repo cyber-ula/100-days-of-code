@@ -281,3 +281,8 @@ Just start a new project to portfolio.
 
 ### R1D78
 Today, just revised the recursion concept and worked on my project 😍👩‍💻🎯
+
+### R1D79
+
+Today, just revised the recursive Fibonacci sequence and still working on my project. Fix two errors in it.
+
