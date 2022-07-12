@@ -292,3 +292,6 @@ Just clean the code in my project a little bit.
 
 ### R1D81
 Deployed my project.
+
+### R1D82
+Just revised Linear Search in Javascript.
