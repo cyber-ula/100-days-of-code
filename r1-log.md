@@ -295,3 +295,6 @@ Deployed my project.
 
 ### R1D82
 Just revised Linear Search in Javascript.
+
+### R1D83
+Just revised linear and binary search and also I've written a post on my blog
