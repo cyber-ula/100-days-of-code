@@ -297,4 +297,7 @@ Deployed my project.
 Just revised Linear Search in Javascript.
 
 ### R1D83
+Just read a chapter about Higher-Order Functions.
+Worked on some problems from the book: https://eloquentjavascript.net
+### R1D83
 Just revised linear and binary search and also I've written a post on my blog
