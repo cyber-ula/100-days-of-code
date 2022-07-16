@@ -304,3 +304,7 @@ Just revised linear and binary search and also I've written a post on my blog
 
 ### R1D84
 Just learned about the Bubble Sort algorithm.
+
+### R1D85
+Just learned about the Insertion Sort Algorithm.
+
