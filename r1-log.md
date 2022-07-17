@@ -308,3 +308,5 @@ Just learned about the Bubble Sort algorithm.
 ### R1D85
 Just learned about the Insertion Sort Algorithm.
 
+### R1D86
+Just learned about Quick Sort Algorithm.
