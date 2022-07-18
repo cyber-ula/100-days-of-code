@@ -310,3 +310,6 @@ Just learned about the Insertion Sort Algorithm.
 
 ### R1D86
 Just learned about Quick Sort Algorithm.
+
+### R1D87
+Just start to learn TS.
