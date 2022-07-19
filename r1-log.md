@@ -299,17 +299,21 @@ Just revised Linear Search in Javascript.
 ### R1D83
 Just read a chapter about Higher-Order Functions.
 Worked on some problems from the book: https://eloquentjavascript.net
-### R1D83
+### R1D84
 Just revised linear and binary search and also I've written a post on my blog
 
-### R1D84
+### R1D85
 Just learned about the Bubble Sort algorithm.
 
-### R1D85
+### R1D86
 Just learned about the Insertion Sort Algorithm.
 
-### R1D86
+### R1D87
 Just learned about Quick Sort Algorithm.
 
-### R1D87
+### R1D88
 Just start to learn TS.
+
+### R1D89
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures 
+Today, just revised some SQL and learned a new concept in JS: Closures. Plus learned also about types in TS. 
