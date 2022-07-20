@@ -317,3 +317,7 @@ Just start to learn TS.
 ### R1D89
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures 
 Today, just revised some SQL and learned a new concept in JS: Closures. Plus learned also about types in TS. 
+
+### R1D90
+Just revised the box model in CSS 🎯👩‍💻 and learned about currying in JS.
+
