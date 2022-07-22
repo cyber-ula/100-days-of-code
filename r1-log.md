@@ -324,3 +324,5 @@ Just revised the box model in CSS 🎯👩‍💻 and learned about currying in 
 ### R1D91
 Just worked on my project and revised some CSS.
 
+### R1D92
+Just worked on my project.
