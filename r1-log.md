@@ -326,3 +326,7 @@ Just worked on my project and revised some CSS.
 
 ### R1D92
 Just worked on my project.
+
+### R1D93
+Today, still working on my project. Just start fix some bugs.
+
