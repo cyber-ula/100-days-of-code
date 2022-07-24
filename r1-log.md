@@ -330,3 +330,5 @@ Just worked on my project.
 ### R1D93
 Today, still working on my project. Just start fix some bugs.
 
+### R1D94
+Just revised objects in JS and worked on my project. Simply try to connect the frontend with the backend.
