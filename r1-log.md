@@ -335,3 +335,7 @@ Just revised objects in JS and worked on my project. Simply try to connect the f
 
 ### R1D95
 Just worked on my project. And still revised some JS.
+
+### R1D96
+Just worked on my project.
+
