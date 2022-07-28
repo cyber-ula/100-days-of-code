@@ -342,3 +342,5 @@ Just worked on my project.
 ### R1D97
 Just learned about https://reactjs.org/docs/context.html
 
+### R1D98
+Just revised some JS and SQL.
