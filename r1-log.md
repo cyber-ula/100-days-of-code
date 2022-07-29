@@ -344,3 +344,7 @@ Just learned about https://reactjs.org/docs/context.html
 
 ### R1D98
 Just revised some JS and SQL.
+
+### R1D99
+Just coding in JS during my technical interview.
+
