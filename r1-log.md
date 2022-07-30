@@ -348,3 +348,7 @@ Just revised some JS and SQL.
 ### R1D99
 Just coding in JS during my technical interview.
 
+### R1D100
+I did this! 100 Days Of Code every day. Day by day. Amazing feeling really, now like I said I have started to apply for a job. Yesterday, I had the first technical interview and now I am waiting for the answer.
+
+Today, just revised some HTML, CSS and JS.
